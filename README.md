@@ -249,7 +249,7 @@
 ---
 
 ## 🎬 시연 영상
-[![시연 영상](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%EC%8D%B8%EB%84%A4%EC%9D%BC.png)](https://youtu.be/pb3Tv8EAYLI)
+[![시연 영상](https://github.com/jeonggubin/Customized-Product-Quality-Analysis-Service/blob/main/images/%EA%B3%B5%EC%9E%A5%EC%8D%B8%EB%84%A4%EC%9D%BC.jpg)](https://youtu.be/pb3Tv8EAYLI)
 ---
 
 ## ⚠️ 보완점 및 향후 과제
