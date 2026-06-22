@@ -249,7 +249,7 @@
 ---
 
 ## 🎬 시연 영상
-
+[![시연 영상](https://img.youtube.com/vi/영상ID/0.jpg)](https://youtu.be/pb3Tv8EAYLI=영상ID)
 ---
 
 ## ⚠️ 보완점 및 향후 과제
